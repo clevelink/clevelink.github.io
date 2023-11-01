@@ -1,0 +1,10 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.clevelink",
+      "sha256_cert_fingerprints":
+      ["4F:A5:68:DE:7A:B6:C4:28:00:AC:21:58:37:DD:95:8B:3D:A1:87:DB:39:C1:2B:FA:C6:36:CE:DF:9A:EC:D3:E6"]
+    }
+  }]
+  
